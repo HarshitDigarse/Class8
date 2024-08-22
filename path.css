@@ -1,0 +1,22 @@
+body{ 
+   background-color: black;
+}
+
+
+button{
+
+   font-size: 20px;
+   background-color: cyan;
+   font-size: 30px;
+   padding: 10px;
+   border-color: cyan;
+   border-radius: 7px;
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan;
+    
+}
+h1{
+      border-color: cyan;
+   border-radius: 7px;
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan;
+    
+}

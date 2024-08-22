@@ -1,0 +1,22 @@
+body{
+   background-color: black;
+}
+button{
+   padding: 25px;
+   width: 120px;
+   font-size: 20px;
+   background-color: cyan;
+   border-color: cyan;
+   border-radius: 7px;
+    box-shadow: 0 0 5px cyan, 0 0 25px cyan;
+    
+   
+   
+}
+button:hover{
+   box-shadow: 0 0 5px cyan, 0 0 25px cyan, 0 0 50px cyan, 0 0 100px cyan, 0 0 200px cyan;
+}
+
+h1{
+   box-shadow: 0 0 5px mediumspringgreen, 0 0 25px mediumspringgreen;
+}
